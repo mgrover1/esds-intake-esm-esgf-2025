@@ -1,22 +1,10 @@
-# Hackathon Template Github
+# ESDS Presentation: Overview of intake-esm and intake-esgf
 
-**2024-11-19**  **-** **2024-11-20** 
+Max Grover
+Argonne National Laboratory
+Atmospheric Data Scientist
 
-Github Pages based template for hackathons
 
+## Overview
 
-## Instructors and Mentors
-
-Please list your instructors and mentors below!
-
-| Instructor | Affiliation | Links |
-| :------- | ------- |:------- |
-| Instructor Name | Lead Instructor Affiliation | [Github](https://github.com/username) |
-
-## Schedule
-
-## 2024-11-19
-
-| Time                | Topic                     | Presenter        |
-| :---:               |    :----:                 |    :---:         |
-| 09:00 AM - 09:30 AM | Welcome/Introduction      | Instructor Name      |
+During this presentation, he will give an overview of two different Python tools for working with petabyte-scale earth system model data collections: intake-esm and intake-esgf. Key differences between the two will be highlighted, with examples of what should be used when in addition to the general philosophies of the toolkits, and roadmaps moving forward.
