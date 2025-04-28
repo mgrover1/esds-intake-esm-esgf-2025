@@ -1,7 +1,16 @@
-name: hackathon-template-github-dev
+name: esds-intake-esm-esgf-2025-dev
 channels:
   - conda-forge
 dependencies:
   - python=3.11
   - mystmd
   - cookiecutter
+  - jupyterlab
+  - intake-esm
+  - intake-esgf
+  - matplotlib
+  - aiohttp
+  - requests
+  - gcsfs
+  - xarray-datatree
+  - ipywidgets
