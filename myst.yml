@@ -1,28 +1,23 @@
 # See docs at: https://mystmd.org/guide/frontmatter
 version: 1
 project:
-  title: Hackathon Template Github
+  title: intake-esm vs. intake-esgf ESDS Presentation
   description: Github Pages based template for hackathons
   # keywords: []
   authors:
-    - name: Instructor Name
-      orcid: XXXX-XXXX-XXXX-XXXX
-      github: username
+    - name: Max Grover
+      orcid: 0000-0002-0370-8974
+      github: mgrover1
   github: https://github.com/hackthackathon/hackathon-template-github
   # To autogenerate a Table of Contents, run "myst init --write-toc"
   toc:
     - file: README.md
-    - title: Organizing Preparation
-      children:
-        - file: organizers/getting-started.md
-        - file: organizers/organizing-checklist.md
-        - file: organizers/survey-template.md
-    - title: Projects
-      children:
-        - pattern: 'projects/project-*'
+    - file: presentation.md
+    - file: notebooks/intake-esm-overview.ipynb
+    - file: notebooks/intake-esgf-overview.ipynb
 site:
   template: book-theme
   # Modify this section with the logos of your choice
   options:
-    favicon: https://hackthackathon.github.io/images/navbar-logo.png
-    logo: https://hackthackathon.github.io/images/navbar-logo.png
+    favicon: https://esgf2-us.github.io/build/ESGF2-US_logo_transp-188814691989e538e803a3753f54b43c.png
+    logo: https://esgf2-us.github.io/build/ESGF2-US_logo_transp-188814691989e538e803a3753f54b43c.png
