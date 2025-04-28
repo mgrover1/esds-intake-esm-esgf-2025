@@ -1,9 +1,5 @@
 # ESDS Presentation: Overview of intake-esm and intake-esgf
 
-Max Grover
-Argonne National Laboratory
-Atmospheric Data Scientist
-
 
 ## Overview
 
