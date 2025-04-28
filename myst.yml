@@ -15,6 +15,10 @@ project:
     - file: presentation.md
     - file: notebooks/intake-esm-overview.ipynb
     - file: notebooks/intake-esgf-overview.ipynb
+  jupyter:
+      binder:
+        repo: mgrover1/esds-intake-esm-esgf-2025
+        url: https://binder.projectpythia.org/
 site:
   template: book-theme
   # Modify this section with the logos of your choice
